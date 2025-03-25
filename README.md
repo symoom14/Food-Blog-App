@@ -31,7 +31,7 @@ The **Food Blog App** is a beautiful, minimalistic mobile application for loggin
 
 ## 📸 Screenshots
 
-> _[Add screenshots or GIF demos here if desired — easily impress recruiters!]_
+> _Screenshots coming soon!_
 
 ---
 
